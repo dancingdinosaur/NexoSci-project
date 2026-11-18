@@ -6,6 +6,13 @@ My teammate Sophie , a high-schooler, and I picked a question that felt close to
 
 ## Our project timeline
 
+The dates show when we first added each file to the repository.
+
+- **October 24, 2026** — We started the repository with this README and added the [first Colab notebook](Student_stuff.ipynb).
+- **November 17, 2026** — We added the [project notebook](NexoSci_Project.ipynb) with our graphs and analysis, and uploaded our [“How to Get an A” slides](NexoSci%20Project.pptx).
+
+### How we worked through the project
+
 1. **We started with a guess.** We thought getting more sleep, staying awake in class, and looking over the material before a test might go along with better scores.
 2. **We got our data.** Dr. Su gave us a dataset of 500 simulated students. It included their test scores, sleep, screen time, homework time, and whether they fell asleep in class or looked over the material before the test.
 3. **We cleaned the data and made graphs.** We used Python in Google Colab to remove rows with missing data and plot sleep and screen time against test scores. Seeing dots on a graph made it easier for me to spot patterns than looking at a table full of numbers.
