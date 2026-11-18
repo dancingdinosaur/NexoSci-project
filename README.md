@@ -2,7 +2,7 @@
 
 I’m a sixth grader, and I got curious about data discovery by accident. My dad introduced me to the course, I just gave a try. I did not expect to work on a science project about data, but once I started, I was intrigued. I wondered what a bunch of numbers could tell me, I wanted to find out.
 
-My teammate Sophie , a high-schooler, and I picked a question that felt close to home: **How do you get an A?** We’re both busy, and sometimes it’s hard to decide what to do with the time we have before a test. Should we spend a little more time reviewing, put our screens away earlier, or just go to sleep? We wanted to see what we could learn from the data and come away with ideas we could try ourselves.
+My teammate Sophie , an 8th grader, and I picked a question that felt close to home: **How do you get an A?** We’re both busy, and sometimes it’s hard to decide what to do with the time we have before a test. Should we spend a little more time reviewing, put our screens away earlier, or just go to sleep? We wanted to see what we could learn from the data and come away with ideas we could try ourselves.
 
 ## Our project timeline
 
